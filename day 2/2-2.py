@@ -1,5 +1,3 @@
-import linecache
-
 f = open("day 2/input.txt", "r")
 
 #12 red
